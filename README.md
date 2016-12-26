@@ -7,10 +7,9 @@ More as a reminder to myself, I'm currently working on learning more about machi
 
 ## TODO 
 * Would be nice to get some 3D plotting up and running - look into [jzy3d](https://github.com/jzy3d/jzy3d-api)
-* 
 
 ## Other interesting resources to look into:
 * [The ScalaNLP Project](http://www.scalanlp.org/)
-* [Kaggle Kernels](https://www.kaggle.com/kernels) (might be good for learning python or R)
+* [Kaggle Kernels](https://www.kaggle.com/kernels) (might be good for (re)learning python or R)
 * [SO Scala Documentation](http://stackoverflow.com/documentation/scala/topics) - lots of good stuff there!
 
