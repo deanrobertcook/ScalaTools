@@ -1,0 +1,4 @@
+Int, String, Double, Boolean
+1, a, 1.1, true
+2, b, 2.2, false
+3, c, 3.3, true

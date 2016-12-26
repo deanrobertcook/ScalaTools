@@ -7,7 +7,7 @@ import com.typesafe.scalalogging.LazyLogging
 import org.scalactic.NormMethods._
 import org.scalactic.StringNormalizations._
 import org.theronin.scalatools.csv.Column.{BoolColumn, StrColumn}
-import org.theronin.scalatools.openCSVFromResource
+import org.theronin.scalatools.csv.openCSVFromResource
 
 object Titanic extends LazyLogging {
 
