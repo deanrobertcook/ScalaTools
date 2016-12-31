@@ -12,6 +12,9 @@ libraryDependencies ++= Seq(
   //TODO get this 3D charting up and running http://www.jzy3d.org/download-1.0.0.php
 //  "org.jzy3d" % "jzy3d-api" % "1.0.0",
 
+  //scraping
+  "net.ruippeixotog" %% "scala-scraper" % "1.2.0",
+
   //tests
   "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 )
